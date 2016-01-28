@@ -1,0 +1,5 @@
+Fork of https://outlookgooglecalendarsync.codeplex.com/wikipage?title=FAQs%20%2f%20Known%20Issues#security
+
+I have modified this to allow multiple outlook users to sync with a single google calendar as part of a requirement we had at the college.
+
+Not yet fully tested, and development has been paused for the time being.
